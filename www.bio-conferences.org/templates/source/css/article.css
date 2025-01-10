@@ -1,0 +1,66 @@
+/* Scientific articles */
+
+
+article.science h2{font-size:1.2rem; line-height: 1.5rem; margin: 2px 0; color: #333}
+article.science h2 .btn-small{font-size: 1rem;}
+article.science h2 span.article-page{font-weight: normal; padding-left: 8px; font-size: inherit;}
+
+article.science a.author_etal, article.science .article_doi a,  article.science .article_doc a, article.science .article_title{color:#484848;}
+
+article.science .issue_name{text-docoration:none; color:#333;}
+
+article.science .short-summary{border:1px dashed #aaa; border-right:none; border-left:0; padding: 4px 10px; margin: 6px 0; background-color: #f6f6f6; }
+article.science .short-summary p{margin: 0;}
+
+article.science .article_doc ul{margin: 0; padding: 0;}
+article.science .article_doc ul li{display: inline;}
+article.science .article_doc li:first-child a{padding:0 5px 0 0;}
+article.science .article_doc ul li a{padding:0 5px;}
+article.science .article_doc ul li+li a{border-left:solid 1px #d5dee5;}
+article.science .article_doc a.btn-small{padding:3px 10px;}
+article.science .article_doc a+a{border-left: solid 1px #d5dee5;}
+article.science .article_doc img{border: 2px solid #ddd; width: 200px; margin-top:10px; transition:all ease 500ms;}
+article.science .article_doc img:hover{cursor: zoom-in;}
+article.science .article_doc img.big{width: auto; max-width: 600px;}
+article.science .article_doc img.big:hover{cursor: zoom-out;}
+
+
+
+/*article "magazine" */
+section.mag+section.science{margin-top: 15px;}
+section.mag article:last-child{margin-bottom: 0;}
+
+
+
+/* protected */
+#protected article+h1{margin-top: 15px;}
+article.protected {padding-left:30px;}
+
+
+/* special article*/
+body .special_article {display: inline-block; margin:3px 5px 2px 0; font-weight: bold; border-radius: 4px; line-height: 1.5rem;}
+body .special_article span{background-color: #ddd; color:#333; padding:3px 10px; border-radius: 4px; font-weight: normal;}
+body .special_article a{background-color: #2685C8; color: #fff; text-decoration:none; /*box-shadow: 0 3px 0 #3D6A8B, 0 5px 0 rgba(0,0,0,0.1);*/ padding:1px 10px; border-radius: 4px; margin-bottom:2px; display: inline-block;}    
+.special_article a:hover{background-color:#156CA9 ; transition:background 300ms ease; color: #fff; text-decoration:none;}
+.special_article.new{background-color: #49528B; color:#fff; padding:1px 10px; border-radius: 4px;}
+.special_article.published{background-color: #42947B; color:#fff; padding:1px 10px; border-radius: 4px;}
+.special_article.gold{background-color: #f58229; color:#fff; padding:1px 10px; border-radius: 4px;}
+.special_article.green{color: #fff; padding:1px 10px; background-color: #42947b;}
+.special_article.s2o{color: #f58229; padding:0px 10px; border:solid 1px #757575; font-weight: bold;}
+.special_article.choice{color: #ca8f00; border:solid 1px #ca8f00; padding:1px 10px; border-radius: 4px; background-color: #fff;}
+.special_article.discret{color:#888; margin:0px; display: inline; font-weight: bold;}
+.special_article.type{font-weight: normal; font-style: italic; margin: 0;}
+.special_article.archive{color: #fff; padding:1px 10px; border-radius: 4px; background-color: #aaa;}
+.special_article.regular{font-weight: normal;}
+.special_article.group{background-color: #ddd; color:#000; padding:1px 10px; border-radius: 4px; font-weight: normal;}
+.special_article.review a {background-color: #31b5c1;}
+
+.article_free{display:inline-block; color: #42947b; font-size: 0.8rem; font-weight: 600; border: solid #42947b 1px; padding:0px 2px; line-height:16px; margin-bottom: 3px;}
+.not_published{display: inline-block; margin: 3px 5px 2px 0; font-weight: bold; font-size:0.8rem; background-color: #a20015; color:#fff; padding:0px 5px; border-radius: 4px;}
+
+
+/*menu full*/
+div.menu{float: left;}
+div.menu ul{width: 165px;}
+
+.summary.full {width: 695px; max-width: inherit;}

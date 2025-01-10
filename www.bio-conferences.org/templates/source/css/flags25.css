@@ -1,0 +1,91 @@
+/* FLAGS 25x17px */
+
+
+
+.info div{vertical-align:middle; width:25px; height:17px; margin-right:5px;}
+.fr, .france{display:inline-block; background:url(../images/flags25/fr.png)}
+.en,.uk,.united.kingdom{display:inline-block; background:url(../images/flags25/en.png)}
+.arab_emirates{display:inline-block; background:url(../images/flags25/arab_emirates.png)}
+.argentina{display:inline-block; background:url(../images/flags25/argentina.png)}
+.armenia{display:inline-block; background:url(../images/flags25/armenia.png)}
+.australia{display:inline-block; background:url(../images/flags25/australia.png)}
+.austria{display:inline-block; background:url(../images/flags25/austria.png)}
+.belgium, .belgique{display:inline-block; background:url(../images/flags25/belgium.png)}
+.bulgaria{display:inline-block; background:url(../images/flags25/bulgaria.png)}
+.botswana{display:inline-block; background:url(../images/flags25/botswana.png)}
+.canada{display:inline-block; background:url(../images/flags25/ca.png)}
+.canary.islands{display:inline-block; background:url(../images/flags25/canary.png)}
+.cyprus{display:inline-block; background:url(../images/flags25/cyprus.png)}
+.colombia{display:inline-block; background:url(../images/flags25/colombia.png)}
+.benin{display:inline-block; background:url(../images/flags25/benin.png)}
+.brazil{display:inline-block; background:url(../images/flags25/br.png)}
+.croatia{display:inline-block; background:url(../images/flags25/croatia.png)}
+.chile{display:inline-block; background:url(../images/flags25/chile.png)}
+.china{display:inline-block; background:url(../images/flags25/china.png)}
+.cambodia{display:inline-block; background:url(../images/flags25/cambodia.png)}
+.costa-rica{display:inline-block; background:url(../images/flags25/costa-rica.png)}
+.denmark{display:inline-block; background:url(../images/flags25/denmark.png)}
+.egypt{display:inline-block; background:url(../images/flags25/egypt.png)}
+.ethiopia{display:inline-block; background:url(../images/flags25/ethiopia.png)}
+.estonia{display:inline-block; background:url(../images/flags25/estonia.png)}
+.ecuador{display:inline-block; background:url(../images/flags25/ecuador.png)}
+.finland{display:inline-block; background:url(../images/flags25/finland.png)}
+.georgia{display:inline-block; background:url(../images/flags25/georgia.png)}
+.germany,.de,.allemagne{display:inline-block; background:url(../images/flags25/de.png)}
+.ghana{display:inline-block; background:url(../images/flags25/ghana.png)}
+.greece{display:inline-block; background:url(../images/flags25/greece.png)}
+.hungary{display:inline-block; background:url(../images/flags25/hungary.png)}
+.hong_kong{display:inline-block; background:url(../images/flags25/hong_kong.png)}
+.iceland{display:inline-block; background:url(../images/flags25/iceland.png)}
+.israel{display:inline-block; background:url(../images/flags25/israel.png)}
+.italy{display:inline-block; background:url(../images/flags25/italy.png)}
+.ireland{display:inline-block; background:url(../images/flags25/ireland.png)}
+.india{display:inline-block; background:url(../images/flags25/india.png)}
+.japan{display:inline-block; background:url(../images/flags25/japan.png)}
+.kenya{display:inline-block; background:url(../images/flags25/kenya.png)}
+.latvia{display:inline-block; background:url(../images/flags25/latvia.png)}
+.lithuania{display:inline-block; background:url(../images/flags25/lithuania.png)}
+.lesotho{display:inline-block; background:url(../images/flags25/lesotho.png)}
+.malaysia{display:inline-block; background:url(../images/flags25/malaysia.png)}
+.mexico{display:inline-block; background:url(../images/flags25/mexico.png)}
+.mongolia{display:inline-block; background:url(../images/flags25/mongolia.png)}
+.nederland, .netherlands{display:inline-block; background:url(../images/flags25/nederland.png)}
+.newzealand{display:inline-block; background:url(../images/flags25/newzealand.png)}
+.norway{display:inline-block; background:url(../images/flags25/norway.png)}
+.nigeria{display:inline-block; background:url(../images/flags25/nigeria.png)}
+.oman{display:inline-block; background:url(../images/flags25/oman.png)}
+.pakistan{display:inline-block; background:url(../images/flags25/pakistan.png)}
+.palestine{display:inline-block; background:url(../images/flags25/palestine.png)}
+.poland{display:inline-block; background:url(../images/flags25/poland.png)}
+.panama{display:inline-block; background:url(../images/flags25/panama.gif)}
+.portugal{display:inline-block; background:url(../images/flags25/portugal.png)}
+.qatar{display:inline-block; background:url(../images/flags25/qatar.png)}
+.czech.republic, .czech_republic{display:inline-block; background:url(../images/flags25/czech_republic.png)}
+.romania{display:inline-block; background:url(../images/flags25/romania.png)}
+.russia, .russie{display:inline-block; background:url(../images/flags25/russia.png)}
+.rwanda{display:inline-block; background:url(../images/flags25/rwanda.png)}
+.samoa{display:inline-block; background:url(../images/flags25/samoa.png)}
+.south_korea{display:inline-block; background:url(../images/flags25/south_korea.png)}
+.south_africa{display:inline-block; background:url(../images/flags25/south_africa.png)}
+.info .sri_lanka{display:inline-block; background:url(../images/flags25/sri_lanka.png); width:34px;} 
+.singapore{display:inline-block; background:url(../images/flags25/singapore.png)}
+.saudi_arabia{display:inline-block; background:url(../images/flags25/saudi_arabia.png)}
+.scotland{display:inline-block; background:url(../images/flags25/scotland.png)}
+.slovak.republic{display:inline-block; background:url(../images/flags25/slovak_republic.png)}
+.serbia{display:inline-block; background:url(../images/flags25/serbia.png)}
+.spain,.espagne{display:inline-block; background:url(../images/flags25/spain.png)}
+.switzerland,.suisse{display:inline-block; background:url(../images/flags25/switzerland.png)}
+.sweden{display:inline-block; background:url(../images/flags25/sweden.png)}
+.taiwan{display:inline-block; background:url(../images/flags25/taiwan.png)}
+.tunisia{display:inline-block; background:url(../images/flags25/tunisia.png)}
+.thailand{display:inline-block; background:url(../images/flags25/thailand.png)}
+.turkey{display:inline-block; background:url(../images/flags25/turkey.png)}
+.tanzania{display:inline-block; background:url(../images/flags25/tanzania.png)}
+.ue{display:inline-block; background:url(../images/flags25/ue.png)}
+.usa{display:inline-block; background:url(../images/flags25/usa.png)}
+.ukraine{display:inline-block; background:url(../images/flags25/ukraine.png)}
+.uruguay{display:inline-block; background:url(../images/flags25/uruguay.png)}
+.venezuela{display:inline-block; background:url(../images/flags25/venezuela.gif)}
+.vietnam{display:inline-block; background:url(../images/flags25/vietnam.png)}
+.world{display:inline-block; background:url(../images/flags25/world.png)}
+.zambia{display:inline-block; background:url(../images/flags25/zambia.png)}
