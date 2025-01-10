@@ -1,0 +1,46 @@
+nav.years{text-align:center; font-weight:bold; background-color:#eef3f7; margin:20px 0px; padding: 5px; border-bottom: solid 2px #6281BA;}
+nav.years a{display:inline-block; padding:1px 10px; color:#fff; background-color:#6281BA; border-radius: 2px}
+nav.years a:hover{text-decoration:none; background-color:#4076D9}
+nav.years .break{height: 5px}
+
+#issues .nfo{background-color:#eee; padding:2px 10px; border:solid 1px #ccc; font-weight:bold; color:#333; text-align:center; text-shadow:0 1px 0 #fff; border-radius:5px}
+
+#issues .year{margin:7px 0; border-bottom: dashed 1px #d4d4d4; padding-bottom: 2px}
+#issues .year > a{color:#000;}
+#issues .year > a:hover{cursor: pointer;}
+#issues .year > a:hover{text-decoration: none;}
+#issues .year > a:hover span.link{text-decoration: underline;}
+
+#issues .volume{line-height: 25px;	padding-left: 13px; position: relative;}
+#issues .volume:nth-child(2n+1){background-color: #eaf1fb; border:dotted 1px #abbdd7; border-right: 0; border-left:0;}
+#issues .div_years .volume:last-child{margin-bottom: 20px}
+
+#issues .volume .issues-url{display: inline-block; width: 300px}
+#issues .volume .issues-references{display: inline-block; color: #5F5F5F; width: 220px;}
+#issues .volume .journal-title{display: inline-block; color: #6E7B8D; width: 260px;}
+#issues .volume .issues-title{line-height: 20px; padding-bottom: 5px}
+
+#procs article{padding: 1rem 1.5rem; margin-bottom: 1rem;}
+#procs article:nth-child(2n+1){ background-color: #F1F1F1; border-bottom: 2px solid #E4E4E4;}
+#procs article h2{margin: 0; font-size: 1.2rem;}
+#procs article p{margin: 5px 0}
+#procs .proc-cover{float: left;}
+#procs .proc-cover img{width: 60px; display: inline-block; min-height: 50px; background-color: #ccc}
+#procs .proc-nfo{margin-left: 80px;}
+#procs .proc-nfo a{font-weight: bold; display: inline-block; padding: 0 10px; border-left:solid 1px #aaa;}
+#procs .proc-nfo a:first-of-type{padding-left: 0; border-left: 0}
+
+/* ?? à test en condition réelle */
+.issues_latest_article_free {position: absolute; top: 0; left:0; margin-left: 510px;}
+.issues_latest_article_free :hover{color: #42947b}
+.issues_latest_article_free :hover .free{background-color: #e3fdf5}
+
+span.archive {color:#555; padding-left:10px; font-style:italic}
+
+
+
+
+
+
+
+
